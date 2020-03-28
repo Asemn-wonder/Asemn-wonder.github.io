@@ -1,0 +1,55 @@
+.HeaderPicture{
+    width: 100px;
+}
+
+.head{
+    text-align: center;
+}
+
+header nav{
+    text-align: center;
+    border-left: darkslategrey;
+}
+
+header nav ul {
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+}
+
+header nav ul li {
+    width: 200px;
+    text-align: center;
+    list-style: none;
+    margin: 0;
+}
+
+
+.TopImage{
+    margin: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.Wonder p{
+    text-align: center;
+}
+
+.Wonder ul{
+    text-align: center;
+}
+
+.Wonder ul li{
+    margin: 20px;
+    font-size: 20px;
+    height: 60px;
+    line-height: 60px;
+    color: #ffffff;
+    display: inline-block;
+    background-color: coral;
+}
+
+.Wonder h1{
+    text-align: center;
+    border-bottom: 3px solid #ec6c2b;
+}
